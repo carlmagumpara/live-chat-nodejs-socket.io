@@ -1,0 +1,15 @@
+{
+  "name": "live_chat",
+  "version": "1.0.0",
+  "description": "just a live chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carlmagumpara",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io":"*",
+    "express":"*"
+  }
+}
